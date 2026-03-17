@@ -1,28 +1,32 @@
 # Project Title
 
-[Your Project Title Here]
+[Baseball Player Salary Analytics Dashboard]
 
 ## Description
+his project analyzes baseball player salary data using Power BI to uncover key insights and trends. The dashboard provides a comprehensive view of salary distribution, player performance, and team-wise spending. It helps users understand how player salaries relate to performance metrics and identify high-value players.
 
-[Write a brief description of your project, what it does, and its purpose.]
+The project demonstrates strong skills in data visualization, data analysis, and business intelligence using Power BI.
+
 
 ## Installation Instructions
 
 [Provide step-by-step instructions on how to install the project.]
-1. Step 1: [Description]
-2. Step 2: [Description]
-3. Step 3: [Description]
+1. Step 1: [Download the .pbix file from this repository]
+2. Step 2: [Install Power BI Desktop (if not already installed)n]
+3. Step 3: [Open the .pbix file in Power BI Desktop]
 
 ## Usage Examples
 
-[Include examples of how to use the project.]
 ```bash
-# Example command
+# Open Power BI file
+1. Launch Power BI Desktop
+2. Click on "Open File"
+3. Select the Baseball Player Salary Analytics Dashboard.pbix file
+4. Explore the interactive dashboard# Example command
 ```
 
 ## Contributing Guidelines
 
-[Explain how people can contribute to your project.]
 1. Fork the project
 2. Create your feature branch (`git checkout -b feature/MyFeature`)
 3. Commit your changes (`git commit -m 'Add some feature'`)
